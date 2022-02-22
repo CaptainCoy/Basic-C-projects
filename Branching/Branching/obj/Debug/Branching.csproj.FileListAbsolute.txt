@@ -1,0 +1,7 @@
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\Branching\Branching\obj\Debug\Branching.pdb
