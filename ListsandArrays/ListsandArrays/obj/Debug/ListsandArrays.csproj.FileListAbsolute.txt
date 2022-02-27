@@ -1,0 +1,7 @@
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\ListsandArrays\ListsandArrays\bin\Debug\ListsandArrays.exe.config
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\ListsandArrays\ListsandArrays\bin\Debug\ListsandArrays.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\ListsandArrays\ListsandArrays\bin\Debug\ListsandArrays.pdb
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\ListsandArrays\ListsandArrays\obj\Debug\ListsandArrays.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\ListsandArrays\ListsandArrays\obj\Debug\ListsandArrays.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\ListsandArrays\ListsandArrays\obj\Debug\ListsandArrays.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\ListsandArrays\ListsandArrays\obj\Debug\ListsandArrays.pdb
