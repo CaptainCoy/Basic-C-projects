@@ -1,0 +1,7 @@
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\mainMethodAssignment\mainMethodAssignment\obj\Debug\mainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\mainMethodAssignment\mainMethodAssignment\obj\Debug\mainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\mainMethodAssignment\mainMethodAssignment\bin\Debug\mainMethodAssignment.exe.config
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\mainMethodAssignment\mainMethodAssignment\bin\Debug\mainMethodAssignment.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\mainMethodAssignment\mainMethodAssignment\bin\Debug\mainMethodAssignment.pdb
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\mainMethodAssignment\mainMethodAssignment\obj\Debug\mainMethodAssignment.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\mainMethodAssignment\mainMethodAssignment\obj\Debug\mainMethodAssignment.pdb
