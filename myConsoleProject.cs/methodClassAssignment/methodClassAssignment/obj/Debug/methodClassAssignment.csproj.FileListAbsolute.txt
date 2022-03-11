@@ -1,0 +1,7 @@
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\methodClassAssignment\methodClassAssignment\bin\Debug\methodClassAssignment.exe.config
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\methodClassAssignment\methodClassAssignment\bin\Debug\methodClassAssignment.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\methodClassAssignment\methodClassAssignment\bin\Debug\methodClassAssignment.pdb
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\methodClassAssignment\methodClassAssignment\obj\Debug\methodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\methodClassAssignment\methodClassAssignment\obj\Debug\methodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\methodClassAssignment\methodClassAssignment\obj\Debug\methodClassAssignment.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\methodClassAssignment\methodClassAssignment\obj\Debug\methodClassAssignment.pdb
