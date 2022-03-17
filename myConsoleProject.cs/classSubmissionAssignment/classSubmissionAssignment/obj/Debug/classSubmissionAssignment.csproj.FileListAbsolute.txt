@@ -1,0 +1,7 @@
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\classSubmissionAssignment\classSubmissionAssignment\bin\Debug\classSubmissionAssignment.exe.config
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\classSubmissionAssignment\classSubmissionAssignment\bin\Debug\classSubmissionAssignment.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\classSubmissionAssignment\classSubmissionAssignment\bin\Debug\classSubmissionAssignment.pdb
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\classSubmissionAssignment\classSubmissionAssignment\obj\Debug\classSubmissionAssignment.pdb
