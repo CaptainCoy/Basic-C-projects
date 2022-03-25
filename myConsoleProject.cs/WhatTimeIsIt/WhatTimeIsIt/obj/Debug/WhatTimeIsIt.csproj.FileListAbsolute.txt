@@ -1,0 +1,7 @@
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\WhatTimeIsIt\WhatTimeIsIt\bin\Debug\WhatTimeIsIt.exe.config
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\WhatTimeIsIt\WhatTimeIsIt\bin\Debug\WhatTimeIsIt.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\WhatTimeIsIt\WhatTimeIsIt\bin\Debug\WhatTimeIsIt.pdb
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\WhatTimeIsIt\WhatTimeIsIt\obj\Debug\WhatTimeIsIt.csproj.AssemblyReference.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\WhatTimeIsIt\WhatTimeIsIt\obj\Debug\WhatTimeIsIt.csproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\WhatTimeIsIt\WhatTimeIsIt\obj\Debug\WhatTimeIsIt.exe
+C:\Users\Alex\OneDrive\Documents\Basic_C#_Programs\myConsoleProject.cs\WhatTimeIsIt\WhatTimeIsIt\obj\Debug\WhatTimeIsIt.pdb
