@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.exe
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.deps.json
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.json
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\bin\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.dll
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.pdb
+C:\Users\Alex\source\repos\ConstructorSubmission\ConstructorSubmission\obj\Debug\netcoreapp3.1\ConstructorSubmission.genruntimeconfig.cache
